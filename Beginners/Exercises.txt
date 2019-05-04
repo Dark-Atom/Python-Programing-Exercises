@@ -1,7 +1,7 @@
 Python challenges and programming exercises
 
 Beginner means person who just have 1 month or less experience in python and who knows basic terms in python
-such as condistional statements,loops,list,string oprations,functions.problems complexity will increse respect to the
+such as conditional statements,loops,list,string oprations,functions.problems complexity will increse respect to the
 index number of problem.
 
 for the soluction,Please check Soluction folder  
