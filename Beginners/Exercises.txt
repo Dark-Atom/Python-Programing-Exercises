@@ -1,1 +1,31 @@
 Python challenges and programming exercises
+
+Beginner means person who just have 1 month or less experience in python and who knows basic terms in python
+such as condistional statements,loops,list,string oprations,functions.problems complexity will increse respect to the
+index number of problem.
+
+for the soluction,Please check Soluction folder  
+
+----------File Structure-----------
+
+	Question
+	Input/output from 
+	Hint
+	Soluction
+	
+
+------------------------------------------------------------------------------
+Question 1 :
+
+	Write a program to check given number is odd or even.
+
+	Input :
+		Enter the number : 5
+	Output:
+		This is odd number.
+
+Hint : Use conditional statements and modulo.
+
+Solution : Please,check Solution folder to find Soluction of this Probelm   
+
+---------------------------------------------------------------------------
