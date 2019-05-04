@@ -26,6 +26,6 @@ Question 1 :
 
 Hint : Use conditional statements and modulo.
 
-Solution : Please,check Solution folder to find Soluction of this Probelm   
+Solution : Soluction folder will  be upload soon.   
 
 ---------------------------------------------------------------------------
