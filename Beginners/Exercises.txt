@@ -4,12 +4,12 @@ Beginner means person who just have 1 month or less experience in python and who
 such as conditional statements,loops,list,string oprations,functions.problems complexity will increse respect to the
 index number of problem.
 
-for the soluction,Please check Soluction folder  
+For the soluction,Please check Soluction folder  
 
 ----------File Structure-----------
 
 	Question
-	Input/output from 
+	Input/output form 
 	Hint
 	Soluction
 	
@@ -25,7 +25,6 @@ Question 1 :
 		This is odd number.
 
 Hint : Use conditional statements and modulo.
-
-Solution : Soluction folder will  be upload soon.   
-
+  
+Soluction : For the solution please,refers solution folder.
 ---------------------------------------------------------------------------
