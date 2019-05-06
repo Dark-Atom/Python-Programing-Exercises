@@ -12,6 +12,7 @@ For the soluction,Please check Soluction folder
 	Input/output form 
 	Hint
 	Soluction
+	Extras
 	
 
 ------------------------------------------------------------------------------
@@ -27,4 +28,8 @@ Question 1 :
 Hint : Use conditional statements and modulo.
   
 Soluction : For the solution please,refers solution folder.
+
+Extras :    check the given number odd or even,if the number is odd print 
+	series of odd numbers till the given number.
+	Input:7   Output : 1 3 5 7 
 ---------------------------------------------------------------------------
