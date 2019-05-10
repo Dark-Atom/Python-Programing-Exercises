@@ -27,7 +27,7 @@ Question 1 :
 Hint : Use conditional statements and modulo.
   
 
-Extras :    check the given number odd or even,if the number is odd print 
+Extras : check the given number odd or even,if the number is odd print 
 	series of odd numbers till the given number.
 	Input:7   Output : 1 3 5 7 
 -------------------------------------------------------------------------------
