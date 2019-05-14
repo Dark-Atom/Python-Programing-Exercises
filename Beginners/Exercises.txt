@@ -44,5 +44,16 @@ Question 2:
 		[1,2,3]
 
 Hint: Use a list oprations and for loop
+---------------------------------------------------------------------------------
+Question 3:
 
+	Write a program to remove duplicate element of list.
+	
+	Input:
+		Enter the list: [1,2,3,4,2,3,4,9,6,7,8]
+	Output:
+		[1,2,3,4,9,6,7,8]
+
+
+Hint : Use Set and List conversion
 ---------------------------------------------------------------------------------
