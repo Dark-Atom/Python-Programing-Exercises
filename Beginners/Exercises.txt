@@ -57,3 +57,13 @@ Question 3:
 
 Hint : Use Set and List conversion
 ---------------------------------------------------------------------------------
+Question 4:
+	Write a program to reverse a given string.
+
+	Input:
+		Enter the String:Hello
+	Output:
+		reverse string is:olleH
+
+Hint: Use a list opration or loop.
+--------------------------------------------------------------------------------
