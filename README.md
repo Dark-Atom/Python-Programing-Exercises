@@ -7,4 +7,4 @@
 
 * it also contents the one liner solutions which is one liner solution for any question(if it possible for that question).
 
-* I would gladly accept pointers from others to improve, simplify, or make the code more efficient
+* I would gladly accept pointers from others to improve, simplify, or make the code more efficient.
